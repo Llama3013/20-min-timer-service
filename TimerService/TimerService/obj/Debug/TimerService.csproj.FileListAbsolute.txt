@@ -1,0 +1,10 @@
+C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe.config
+C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.pdb
+C:\Users\Llama3013\source\repos\TimerService\TimerService\obj\Debug\TimerService.TimerService.resources
+C:\Users\Llama3013\source\repos\TimerService\TimerService\obj\Debug\TimerService.csproj.GenerateResource.cache
+C:\Users\Llama3013\source\repos\TimerService\TimerService\obj\Debug\TimerService.csproj.CoreCompileInputs.cache
+C:\Users\Llama3013\source\repos\TimerService\TimerService\obj\Debug\TimerService.exe
+C:\Users\Llama3013\source\repos\TimerService\TimerService\obj\Debug\TimerService.pdb
+C:\Users\Llama3013\source\repos\TimerService\TimerService\obj\Debug\TimerService.TimerInstaller.resources
+C:\Users\Llama3013\source\repos\TimerService\TimerService\obj\Debug\TimerService.csprojAssemblyReference.cache

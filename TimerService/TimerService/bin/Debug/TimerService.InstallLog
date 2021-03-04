@@ -1,0 +1,599 @@
+﻿Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe assembly.
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe assembly.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe assembly.
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe assembly.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Attempt to stop service TimerService.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Creating EventLog source TimerService in log Application...
+Rolling back assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Restoring event log to previous state for source TimerService.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Creating EventLog source TimerService in log Application...
+Rolling back assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Restoring event log to previous state for source TimerService.
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Attempt to stop service TimerService.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Creating EventLog source TimerService in log Application...
+Rolling back assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Restoring event log to previous state for source TimerService.
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Attempt to stop service TimerService.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Attempt to stop service TimerService.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Attempt to stop service TimerService.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Uninstalling assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Removing EventLog source TimerService.
+Service TimerService is being removed from the system...
+Service TimerService was successfully removed from the system.
+Installing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.InstallLog
+   assemblypath = C:\Users\Llama3013\source\repos\TimerService\TimerService\bin\Debug\TimerService.exe
